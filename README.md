@@ -1,70 +1,23 @@
-# Project Name
+# SQL Querries
 
-> Project Title.
+> SQL Exercises from SQL zoo.
 
-![screenshot](./app_screenshot.png)
-
-Project description.
+Writting some sql querries to solve the exercises on sqlzoo(https://sqlzoo.net/wiki/SQL_Tutorial). From exercise 1 to 9
 
 ## Built With
 
-- HTML5 and CSS3
-- VSCode, Linters, Stylelint, Validator.w3
+- SQL
+- VSCode
 
 ## Live Demo
 
-[Live Demo Link]()
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-- Get your browsers up to date
-
-### Setup
-
-- Clone the repository on your local machine
-- cd into the folder, find the index.html file and open it
-
-### Install
-
-- Install VSCode or any code editor you like
-- Install Node JS and nmp(most recents versions)
-- Run this command on your terminal in order to install stylelint: npm install stylelint stylelint-config-recommended --save-dev 
-
-### Usage
-
-### Run tests
-
-- Test the css by typing the command: npx stylelint .
-- Go to http://validator.w3.org/ , upload the index.html file to test it.
-
-### Deployment
-
-- Get an online web hosting
-- Upload all the files in the htdocs folder of your domain
-- Access your domain name in browser
-
-
+[Test Link](https://sqlzoo.net/wiki/SQL_Tutorial)
 
 ## Authors
 
 👤 Manezeu Patricia Chrystelle
 
 - Github: [@githubhandle](https://github.com/patriciachrysy)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- Github: [@githubhandle]()
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
 
